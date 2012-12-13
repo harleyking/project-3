@@ -1,0 +1,126 @@
+body {
+	background: rgb(122,204,200);
+}
+
+
+
+.main {
+	background: rgb(28,187,180);
+	border: 2px solid #fff;
+	border-top: none;
+	padding-top: 100px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+#logo {
+	text-align: right;
+	width: 350px;
+	margin-left: 10px;
+	margin-top: 50px;
+}
+
+#login {
+	font-family: quicksand;
+	font-weight: 400;
+	color: #fff;
+	font-size: 20px;
+	text-align: right;
+	width: 500px;
+	text-decoration: underline;
+	margin-top: 50px;
+}
+
+.tagline{
+	font-family: quicksand;
+	font-weight: 700;
+	text-align: right;
+	color: #fff;
+	margin: 40px 0px 0px 100px;
+}
+
+.subtag {
+	font-family: quicksand;
+	font-weight: 400;
+	text-align: right;
+	font-size: 25px;
+	color: #fff;
+	margin: 10px 0px 30px 80px;
+	
+}
+
+
+#download {
+	font-family: quicksand;
+	font-weight: 700;
+	font-size: 25px; 
+	color: #fff;
+	margin: 150px 0px 0px 0px;
+	padding: 10px 20px;
+	width: 125px;
+	background: rgb(122,204,200);
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.price {
+	font-family: quicksand;
+	font-weight: 400;
+	color: #fff;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+hr { border: solid #fff; border-width: 7px 0 0 0; clear: both; margin: 10px  30px; height: 0px; 
+	opacity: .5;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.info-sect {
+	padding: 0 0 0 60px;
+	position: relative;
+	margin: 20px 0px 20px 100px;
+	float: none;
+}
+
+.info-sect img{
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+
+#save {
+	margin: 140px 0px 0px 10px;
+}
+
+#connect {
+	margin-top: 22px;
+}
+
+#favorites {
+	margin-top: 22px;
+}
+
+#reduce {
+	margin: 135px 0px 0px 3px;
+	width: 45px;
+	padding-left: 0px;
+}
+
+.info-head {
+	font-family: quicksand;
+	font-size: 25px;
+	color: #fff;
+	line-height: 1.25;
+	margin: 15px 0px 5px 0px;
+}
+
+.info-desc {
+	font-family:quicksand;
+	font-size: 17px;
+	color: #fff;
+	line-height: 1.25;
+}
